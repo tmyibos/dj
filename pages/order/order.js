@@ -126,7 +126,7 @@ var obj = {
             "goods_name": "【保税】澳洲Rebecca碟型活性羊胎素霜 50ml",
             "goods_price": "61.00",
             "goods_number": "1",
-            "goods_img": "http://img01.wzhouhui.egocdn.com/goods/image_show/2016/11/25/300/35240bf972782b3221e782c35f87cd934844caab.jpg",
+            "goods_img": "http://img01.baidu.egocdn.com/goods/image_show/2016/11/25/300/35240bf972782b3221e782c35f87cd934844caab.jpg",
             "tags": [],
             "apply_status_name": "",
             "apply_status": "3"
@@ -137,7 +137,7 @@ var obj = {
             "goods_name": "【保税】澳洲Rebecca碟型活性羊胎素霜 50ml",
             "goods_price": "61.00",
             "goods_number": "1",
-            "goods_img": "http://img01.wzhouhui.egocdn.com/goods/image_show/2016/11/25/300/35240bf972782b3221e782c35f87cd934844caab.jpg",
+            "goods_img": "http://img01.baidu.egocdn.com/goods/image_show/2016/11/25/300/35240bf972782b3221e782c35f87cd934844caab.jpg",
             "tags": [],
             "apply_status_name": "",
             "apply_status": "3"

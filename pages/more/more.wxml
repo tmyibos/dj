@@ -40,6 +40,6 @@
         </view>
     </view>
     <view class="no-store-tip-msg" wx:else>
-        本地区暂不支持，您可以通过查看其他支持的省份地区，了解我们的门店信息！或者登录我们的PC官方网站：<text>https://www.wzhouhui.com/</text>进行线上购买下单
+        本地区暂不支持，您可以通过查看其他支持的省份地区，了解我们的门店信息！或者登录我们的PC官方网站：<text>https://www.baidu.com/</text>进行线上购买下单
     </view>
 </view>

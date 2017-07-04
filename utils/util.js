@@ -51,7 +51,7 @@ function wxPromisify(fn, scope) {
 }
 
 /* token获取封装 */
-var domain = 'https://m.wzhouhui.com';
+var domain = 'https://m.baidu.com';
 var url = {
     getOpenId: domain + '/wx/o2o_oauth',
     getToken: domain + '/mp/jwtToken'
