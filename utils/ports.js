@@ -1,6 +1,6 @@
 /* 接口api */
-var wdomain = "https://www.wzhouhui.com/dj",
-    mdomain = "https://m.wzhouhui.com";
+var wdomain = "https://www.baidu.com/dj",
+    mdomain = "https://m.baidu.com";
 
 module.exports = {
 
